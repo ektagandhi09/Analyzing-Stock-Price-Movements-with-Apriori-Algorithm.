@@ -1,4 +1,4 @@
-# Analyzing-Stock-Price-Movements-with-Apriori-Algorithm.
+# Analyzing Stock Price Movements with Apriori Algorithm
 
 The stock market is a complex and dynamic system, influenced by a wide range of economic, political, and social factors. As a result, predicting stock prices and identifying trends and patterns can be a difficult and time-consuming task. However, with the increasing availability of data and advancements in machine learning algorithms, it is becoming easier to extract insights and make informed decisions.
 
